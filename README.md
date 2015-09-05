@@ -1,4 +1,4 @@
-# DomoticzEsp8622Dimmer
+# Domoticz Esp8622 Dimmer
 ## A ESP8266 based dimmer for Domotiz Lua, with nice ramped fading  
 ---
 This code allows you to run a PWM based led dimmer of the ESP8266.
